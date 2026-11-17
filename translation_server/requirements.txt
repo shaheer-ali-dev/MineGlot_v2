@@ -1,0 +1,2 @@
+# Argos Translate runs translation locally after language packages are installed.
+argostranslate>=1.9.0,<2.0

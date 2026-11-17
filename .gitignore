@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# Minecraft mod build outputs
+minecraft_mod/build/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables
+.env
+# Generated build files
+.gradle/
+**/build/
+**/out/
+__pycache__/
+.venv/
+venv/
+.env
