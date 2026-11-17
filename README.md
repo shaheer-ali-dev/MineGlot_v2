@@ -125,3 +125,10 @@ MineGlot v2 was developed to provide a locally hosted translation solution for M
 ## License
 
 See [LICENSE](LICENSE) for licensing information.
+
+## Author
+
+**Developed by [Shaheer Ali](https://github.com/shaheer-ali-dev)**
+MineGlot v2 is a personal project developed to explore and build a practical, locally hosted translation solution for Minecraft.
+
+
